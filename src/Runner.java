@@ -23,7 +23,11 @@ public class Runner {
         //------------------------------
         //***************************
 
+
         //dev1 kodlarını yazdı
+
+        //dev2 nin yaptığı değişiklikler
+
 
     }
 
